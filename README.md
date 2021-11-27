@@ -1,6 +1,4 @@
 # portfolio-website
-This is my portfolio website, where I introduce myself, talk about my work and hobbies. I also provide my contact if you want to chat.
-
 To check my portfolio in browser, you can just acess my website in the About Me Section of this Github page.
 
 To check my code you can download my files and open them in your coding app of choice (e.g. Atom), or directly in this Github page by just clicking the html or css files (this last one inside the css folder.)
